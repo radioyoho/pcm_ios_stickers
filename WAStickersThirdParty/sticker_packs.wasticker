@@ -1,0 +1,245 @@
+{
+    "ios_app_store_link" : "https://itunes.apple.com/app/id1470280258",
+    "android_play_store_link" : "https://play.google.com/store/apps/details?id=com.karaokulta.pcmstickerpack&hl=es",
+    "sticker_packs" : [
+    {
+        "identifier": "BambooID",
+        "name": "Bamboo",
+        "publisher": "Karaokulta",
+        "tray_image_file" : "tray_bamboo.png",
+        "publisher_website" : "https://www.karaokulta.com/",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "stickers": [
+        {
+            "image_file": "bamboo1_1.webp"
+        },
+        {
+            "image_file": "bamboo1_2.webp"
+        },
+        {
+            "image_file": "bamboo1_3.webp"
+        },
+        {
+            "image_file": "bamboo1_4.webp"
+        },
+        {
+            "image_file": "bamboo1_5.webp"
+        },
+        {
+            "image_file": "bamboo2_1.webp"
+        },
+        {
+            "image_file": "bamboo2_2.webp"
+        },
+        {
+            "image_file": "bamboo2_3.webp"
+        },
+        {
+            "image_file": "bamboo2_4.webp"
+        },
+        {
+            "image_file": "bamboo2_5.webp"
+        }]
+    },
+    {
+        "identifier": "BebopID",
+        "name": "Bebop",
+        "publisher": "Karaokulta",
+        "tray_image_file" : "tray_beboop.png",
+        "publisher_website" : "https://www.karaokulta.com/",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "stickers": [
+        {
+            "image_file": "beboop1_1.webp"
+        },
+        {
+            "image_file": "beboop1_2.webp"
+        },
+        {
+            "image_file": "beboop1_3.webp"
+        },
+        {
+            "image_file": "beboop1_4.webp"
+        },
+        {
+            "image_file": "beboop1_5.webp"
+        },
+        {
+            "image_file": "beboop2_1.webp"
+        },
+        {
+            "image_file": "beboop2_2.webp"
+        },
+        {
+            "image_file": "beboop2_3.webp"
+        },
+        {
+            "image_file": "beboop2_4.webp"
+        },
+        {
+            "image_file": "beboop2_5.webp"
+        }]
+    },
+    {
+        "identifier": "JasperID",
+        "name": "Jasper",
+        "publisher": "Karaokulta",
+        "tray_image_file" : "tray_jasper.png",
+        "publisher_website" : "https://www.karaokulta.com/",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "stickers": [
+        {
+            "image_file": "jasper1_1.webp"
+        },
+        {
+            "image_file": "jasper1_2.webp"
+        },
+        {
+            "image_file": "jasper1_3.webp"
+        },
+        {
+            "image_file": "jasper1_4.webp"
+        },
+        {
+            "image_file": "jasper1_5.webp"
+        },
+        {
+            "image_file": "jasper2_1.webp"
+        },
+        {
+            "image_file": "jasper2_2.webp"
+        },
+        {
+            "image_file": "jasper2_3.webp"
+        },
+        {
+            "image_file": "jasper2_4.webp"
+        },
+        {
+            "image_file": "jasper2_5.webp"
+        }]
+    },
+    {
+        "identifier": "PepoID",
+        "name": "Pepo",
+        "publisher": "Karaokulta",
+        "tray_image_file" : "tray_pepo.png",
+        "publisher_website" : "https://www.karaokulta.com/",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "stickers": [
+        {
+            "image_file": "pepo1_1.webp"
+        },
+        {
+            "image_file": "pepo1_2.webp"
+        },
+        {
+            "image_file": "pepo1_3.webp"
+        },
+        {
+            "image_file": "pepo1_4.webp"
+        },
+        {
+            "image_file": "pepo1_5.webp"
+        },
+        {
+            "image_file": "pepo2_1.webp"
+        },
+        {
+            "image_file": "pepo2_2.webp"
+        },
+        {
+            "image_file": "pepo2_3.webp"
+        },
+        {
+            "image_file": "pepo2_4.webp"
+        },
+        {
+            "image_file": "pepo2_5.webp"
+        }]
+    },
+    {
+        "identifier": "VioletID",
+        "name": "Violet",
+        "publisher": "Karaokulta",
+        "tray_image_file" : "tray_violet.png",
+        "publisher_website" : "https://www.karaokulta.com/",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "stickers": [
+        {
+            "image_file": "violet1_1.webp"
+        },
+        {
+            "image_file": "violet1_2.webp"
+        },
+        {
+            "image_file": "violet1_3.webp"
+        },
+        {
+            "image_file": "violet1_4.webp"
+        },
+        {
+            "image_file": "violet1_5.webp"
+        },
+        {
+            "image_file": "violet2_1.webp"
+        },
+        {
+            "image_file": "violet2_2.webp"
+        },
+        {
+            "image_file": "violet2_3.webp"
+        },
+        {
+            "image_file": "violet2_4.webp"
+        },
+        {
+            "image_file": "violet2_5.webp"
+        }]
+    },
+        {
+        "identifier": "ZoiiID",
+        "name": "Zoii",
+        "publisher": "Karaokulta",
+        "tray_image_file" : "tray_zoii.png",
+        "publisher_website" : "https://www.karaokulta.com/",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "stickers": [
+        {
+            "image_file": "zoii1_1.webp"
+        },
+        {
+            "image_file": "zoii1_2.webp"
+        },
+        {
+            "image_file": "zoii1_3.webp"
+        },
+        {
+            "image_file": "zoii1_4.webp"
+        },
+        {
+            "image_file": "zoii1_5.webp"
+        },
+        {
+            "image_file": "zoii2_1.webp"
+        },
+        {
+            "image_file": "zoii2_2.webp"
+        },
+        {
+            "image_file": "zoii2_3.webp"
+        },
+        {
+            "image_file": "zoii2_4.webp"
+        },
+        {
+            "image_file": "zoii2_5.webp"
+        }]
+    }]
+}
